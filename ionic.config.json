@@ -1,0 +1,7 @@
+{
+  "name": "pickleapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
